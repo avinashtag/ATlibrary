@@ -1,0 +1,475 @@
+TATlibrary
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Info.plist" ATlibrary/ATlibrary-Info.plist
+cProcessPCH "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.pth" ATlibrary/ATlibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.o "/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.o "/Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.o "/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.o "/Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000514087E90000000000228FE0
+t1363183593
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000514087EC00000000003DDFA0
+t1363183596
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000514087EC00000000000015F7
+t1363183596
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000514087F10000000000000E8D
+t1363183601
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000514087F30000000000AB6230
+t1363183603
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000514088000000000000001B73
+t1363183616
+s7027
+
+N/Iphone Projects/ATlibrary/ATlibrary/ATlibrary-Prefix.pch
+c0000000051A719690000000000000141
+t1369905513
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Iphone Projects/ATlibrary/ATlibrary/AppDelegate.m
+c0000000051A71969000000000000087E
+t1369905513
+s2174
+
+N/Iphone Projects/ATlibrary/ATlibrary/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Iphone Projects/ATlibrary/ATlibrary/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Iphone Projects/ATlibrary/ATlibrary/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Iphone Projects/ATlibrary/ATlibrary/en.lproj/InfoPlist.strings
+c0000000051A71969000000000000002D
+t1369905513
+s45
+
+N/Iphone Projects/ATlibrary/ATlibrary/main.m
+c0000000051A71969000000000000014E
+t1369905513
+s334
+
+N/Iphone Projects/ATlibrary/Common Class/ChatCommonMethodsViewController.m
+c0000000051A71A2B0000000000001E8E
+t1369905707
+s7822
+
+N/Iphone Projects/ATlibrary/Common Class/CommonHeader.m
+c0000000051A601AB00000000000001F8
+t1369833899
+s504
+
+N/Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.m
+c0000000051A605670000000000000398
+t1369834855
+s920
+
+N/Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m
+c0000000051A7182900000000000000EA
+t1369905193
+s234
+
+N/Iphone Projects/ATlibrary/Common Class/NSMutableDictionary+ATmutableDictionary.m
+c0000000051A716330000000000000289
+t1369904691
+s649
+
+N/Iphone Projects/ATlibrary/Common Class/NSObject+ATCommon.m
+c0000000051A6FFB1000000000000051E
+t1369898929
+s1310
+
+N/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m
+c0000000051A6056700000000000016DC
+t1369834855
+s5852
+
+N/Iphone Projects/ATlibrary/Common Class/ReadMe.rtf
+c0000000051A71AA1000000000000018D
+t1369905825
+s397
+
+N/Iphone Projects/ATlibrary/Common Class/UIActionSheet+ATActionsheet.m
+c0000000051A6E2EE00000000000010E0
+t1369891566
+s4320
+
+N/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m
+c0000000051A71CCE00000000000022AE
+t1369906382
+s8878
+
+N/Iphone Projects/ATlibrary/Common Class/UIImage+ATImage.m
+c0000000051A6F5F9000000000000017E
+t1369896441
+s382
+
+N/Iphone Projects/ATlibrary/Common Class/UIImagePickerController+ATImagePickerController.m
+c0000000051A6E40200000000000009FA
+t1369891842
+s2554
+
+N/Iphone Projects/ATlibrary/Common Class/UINavigationController+ATNavigationController.m
+c0000000051A6FC6C00000000000002C7
+t1369898092
+s711
+
+N/Iphone Projects/ATlibrary/Common Class/UIScrollView+ATScroll.m
+c0000000051A6E69D0000000000000412
+t1369892509
+s1042
+
+N/Iphone Projects/ATlibrary/Common Class/UIView+ATview.m
+c0000000051A6F866000000000000046E
+t1369897062
+s1134
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/ATlibrary.LinkFileList
+c0000000051A71CE60000000000000954
+t1369906406
+s2388
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/ChatCommonMethodsViewController.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/CommonHeader.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSMutableDictionary+ATmutableDictionary.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSObject+ATCommon.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIActionSheet+ATActionsheet.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIImage+ATImage.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIImagePickerController+ATImagePickerController.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UINavigationController+ATNavigationController.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIScrollView+ATScroll.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIView+ATview.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.pth
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app.dSYM
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/ATlibrary
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Default-568h@2x.png
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Default.png
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Default@2x.png
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Info.plist
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/PkgInfo
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/ReadMe.rtf
+t2
+s0
+
+N/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+NATlibrary/ATlibrary-Info.plist
+c0000000051A71969000000000000048B
+t1369905513
+s1163
+
+CBuild AST from "/Iphone Projects/ATlibrary/ATlibrary/AppDelegate.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/ATlibrary/main.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/ChatCommonMethodsViewController.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/CommonHeader.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/NSMutableDictionary+ATmutableDictionary.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/NSObject+ATCommon.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UIActionSheet+ATActionsheet.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UIImage+ATImage.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UIImagePickerController+ATImagePickerController.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UINavigationController+ATNavigationController.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UIScrollView+ATScroll.m"
+r0
+
+CBuild AST from "/Iphone Projects/ATlibrary/Common Class/UIView+ATview.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6d6fa7665457b741^e069ce665457b741^---0#1#0#--18"Check dependencies36"650B9712-D4C6-4C88-B321-FAF88E192924-
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/AppDelegate.o "/Iphone Projects/ATlibrary/ATlibrary/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/ChatCommonMethodsViewController.o "/Iphone Projects/ATlibrary/Common Class/ChatCommonMethodsViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/CommonHeader.o "/Iphone Projects/ATlibrary/Common Class/CommonHeader.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.o "/Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391599207.404910
+e391599207.622567
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.o
+x/Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.mc6fd67675457b741^16689f675457b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Iphone%20Projects/ATlibrary/Common%20Class/NSDate+ATDate.m0000000000000000^3667"CompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.o "Common Class/NSDate+ATDate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Iphone Projects/ATlibrary"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-generated-files.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-own-target-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-all-target-headers.hmap" -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-project-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources/i386" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources" "-F/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator" -include "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch" -MMD -MT dependencies -MF "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.d" --serialize-diagnostics "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.dia" -c "/Iphone Projects/ATlibrary/Common Class/NSDate+ATDate.m" -o "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDate+ATDate.o"36"E4E31F11-3681-4FC8-BBC6-7021AB1FFA46-
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.o "/Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391599207.406367
+e391599207.622721
+r1
+xCompileC
+xDerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.o
+x/Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m384c68675457b741^75759f675457b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Iphone%20Projects/ATlibrary/Common%20Class/NSDictionary+ATdictionary.m0000000000000000^3739"CompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.o "Common Class/NSDictionary+ATdictionary.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Iphone Projects/ATlibrary"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-generated-files.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-own-target-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-all-target-headers.hmap" -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-project-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources/i386" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources" "-F/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator" -include "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch" -MMD -MT dependencies -MF "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.d" --serialize-diagnostics "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.dia" -c "/Iphone Projects/ATlibrary/Common Class/NSDictionary+ATdictionary.m" -o "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSDictionary+ATdictionary.o"36"276D3D94-9F5D-4725-86D4-955D6C1820CF-
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSMutableDictionary+ATmutableDictionary.o "/Iphone Projects/ATlibrary/Common Class/NSMutableDictionary+ATmutableDictionary.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSObject+ATCommon.o "/Iphone Projects/ATlibrary/Common Class/NSObject+ATCommon.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.o "/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391599207.404652
+e391599207.521104
+r0
+xCompileC
+xDerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.o
+x/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m:9:9: fatal error: 'NSString+ATString' file not found
+o#import "NSString+ATString"
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Iphone Projects/ATlibrary/Common Class/NSString+ATString.mdfe067675457b741^b96f85675457b741^-170"/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m:9:9: fatal error: 'NSString+ATString' file not found#import "NSString+ATString"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@34"'NSString+ATString' file not found-391599207#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@79"file://localhost/Iphone%20Projects/ATlibrary/Common%20Class/NSString+ATString.m0000000000000000^8#8#8#8#150#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@79"file://localhost/Iphone%20Projects/ATlibrary/Common%20Class/NSString+ATString.m0000000000000000^3691"CompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.o "Common Class/NSString+ATString.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Iphone Projects/ATlibrary"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-generated-files.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-own-target-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-all-target-headers.hmap" -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-project-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources/i386" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources" "-F/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator" -include "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch" -MMD -MT dependencies -MF "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.d" --serialize-diagnostics "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.dia" -c "/Iphone Projects/ATlibrary/Common Class/NSString+ATString.m" -o "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/NSString+ATString.o"36"20134DB9-7F84-4D11-86F4-49C890B31D0E-
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIActionSheet+ATActionsheet.o "/Iphone Projects/ATlibrary/Common Class/UIActionSheet+ATActionsheet.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.o "/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391599207.405708
+e391599207.622771
+r0
+xCompileC
+xDerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.o
+x/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m:9:
+o/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.h:10:9: fatal error: 'proAlertView.h' file not found
+o#import "proAlertView.h"
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.ma22868675457b741^5a7f9f675457b741^-262"In file included from /Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m:9:/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.h:10:9: fatal error: 'proAlertView.h' file not found#import "proAlertView.h"        ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Iphone%20Projects/ATlibrary/Common%20Class/UIAlertView+ATAlertView.m0000000000000000^3727"CompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.o "Common Class/UIAlertView+ATAlertView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Iphone Projects/ATlibrary"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-generated-files.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-own-target-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-all-target-headers.hmap" -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-project-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources/i386" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources" "-F/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator" -include "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch" -MMD -MT dependencies -MF "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.d" --serialize-diagnostics "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.dia" -c "/Iphone Projects/ATlibrary/Common Class/UIAlertView+ATAlertView.m" -o "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIAlertView+ATAlertView.o"36"949D70A6-7286-444A-BB31-527CB6D95F25-
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIImage+ATImage.o "/Iphone Projects/ATlibrary/Common Class/UIImage+ATImage.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIImagePickerController+ATImagePickerController.o "/Iphone Projects/ATlibrary/Common Class/UIImagePickerController+ATImagePickerController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UINavigationController+ATNavigationController.o "/Iphone Projects/ATlibrary/Common Class/UINavigationController+ATNavigationController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIScrollView+ATScroll.o "/Iphone Projects/ATlibrary/Common Class/UIScrollView+ATScroll.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/UIView+ATview.o "/Iphone Projects/ATlibrary/Common Class/UIView+ATview.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/Objects-normal/i386/main.o "/Iphone Projects/ATlibrary/ATlibrary/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/en.lproj/InfoPlist.strings" ATlibrary/en.lproj/InfoPlist.strings
+r0
+
+CCpResource "Common Class/ReadMe.rtf" DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/ReadMe.rtf
+r0
+
+CCpResource ATlibrary/Default-568h@2x.png DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Default-568h@2x.png
+r0
+
+CCpResource ATlibrary/Default.png DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Default.png
+r0
+
+CCpResource ATlibrary/Default@2x.png DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Default@2x.png
+r0
+
+CGenerateDSYMFile "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app.dSYM" "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/ATlibrary"
+r0
+
+CLd "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/ATlibrary" normal i386
+r0
+
+CProcessInfoPlistFile "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Info.plist" ATlibrary/ATlibrary-Info.plist
+s391599206.812829
+e391599206.863202
+r1
+xProcessInfoPlistFile
+x/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Info.plist
+xATlibrary/ATlibrary-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process ATlibrary/ATlibrary-Info.plist0e2fd0665457b741^46b5ec665457b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Iphone%20Projects/ATlibrary/ATlibrary/ATlibrary-Info.plist0000000000000000^697"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Info.plist ATlibrary/ATlibrary-Info.plist    cd "/Iphone Projects/ATlibrary"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ATlibrary/ATlibrary-Info.plist -genpkginfo "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app/Info.plist"36"F66312A8-624F-4264-95AF-E2982A6B3139-
+
+CProcessPCH "/Iphone Projects/ATlibrary/DerivedData/ATlibrary/Index/PrecompiledHeaders/ATlibrary-Prefix-bdhqikxjhogsizgpelxvwmlyrngy_ast/ATlibrary-Prefix.pch.pth" ATlibrary/ATlibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.pth" ATlibrary/ATlibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s391599206.871192
+e391599207.398123
+r1
+xProcessPCH
+x/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.pth
+xATlibrary/ATlibrary-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile ATlibrary/ATlibrary-Prefix.pch4034df665457b741^d1e965675457b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Iphone%20Projects/ATlibrary/ATlibrary/ATlibrary-Prefix.pch0000000000000000^3518"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.pth ATlibrary/ATlibrary-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Iphone Projects/ATlibrary"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-generated-files.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-own-target-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-all-target-headers.hmap" -iquote "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/ATlibrary-project-headers.hmap" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources/i386" "-I/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/ATlibrary.build/Debug-iphonesimulator/ATlibrary.build/DerivedSources" "-F/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.dia" -c "/Iphone Projects/ATlibrary/ATlibrary/ATlibrary-Prefix.pch" -o "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.pth" -MMD -MT dependencies -MF "/Iphone Projects/ATlibrary/DerivedData/Build/Intermediates/PrecompiledHeaders/ATlibrary-Prefix-ghewjiywrrfdtaagxagfasbubhta/ATlibrary-Prefix.pch.d"36"7A98BEB1-79BC-4BCE-BBD2-82E65D2FE145-
+
+CTouch "/Iphone Projects/ATlibrary/DerivedData/Build/Products/Debug-iphonesimulator/ATlibrary.app"
+r0
+
